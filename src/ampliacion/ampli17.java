@@ -1,3 +1,5 @@
+package ampliacion;
+
 import java.util.Scanner;
 
 public class ampli17 {
